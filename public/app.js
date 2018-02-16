@@ -165,7 +165,7 @@ var App = _react2.default.createClass({
   displayName: 'App',
 
   // class App extends React.Component{
-  //when use aboce syntax, get error at L8,3
+  //when use above syntax, get error at L8,3
   getInitialState: function getInitialState() {
     return { who: 'type something' };
   },

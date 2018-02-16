@@ -2,7 +2,7 @@ import React from 'react';
 
 const App = React.createClass({
 // class App extends React.Component{
-//when use aboce syntax, get error at L8,3
+//when use above syntax, get error at L8,3
   getInitialState() {
     return { who: 'type something' };
   },
